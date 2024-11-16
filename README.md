@@ -45,4 +45,4 @@ print("The number of words are in the file is ",num)
 
 
 ## RESULT:
-Thus the program is written to find the word count from a text.
+Thus the program is written to find the word count from a text..
